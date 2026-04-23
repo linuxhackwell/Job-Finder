@@ -173,15 +173,3 @@ For issues or questions:
 Built with Python and ☕
 text
 
-
-## Instructions to Add This README:
-
-1. **Create the file** in your project folder: `README.md`
-2. **Add a screenshot** by running the app, taking a screenshot, saving as `screenshot.png`, and replacing the ASCII art with:
-![Job Finder Screenshot](screenshot.png)
-
-### 4.Commit and push:
-
-git add README.md
-git commit -m "Add professional README documentation"
-git push origin main
